@@ -1,2 +1,2 @@
-# AI
-Meus projetos experiementos utilizando Inteligência Artificial e Machine Learning
+# Reconhecimento de Fala
+Whisper + Chat GPT + Google Text-To-Speech
