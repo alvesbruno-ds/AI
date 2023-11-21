@@ -10,10 +10,10 @@
 
 <p align="center">
 <p width="1%">
-  <img src="https://github.com/alves-bruno-ds/data-science-BR/blob/02b5a39df41ebb6882b86df02ee0fc9eebd6bbe9/Banner%20COvid_19.png" >
+  <img src="https://github.com/alvesbruno-ds/data-science-BR/blob/main/pessoas-gerando-imagens-usando-inteligencia-artificial-em-laptop.jpg" >
 </p>
 
-Neste artigo científico, analisamos a disseminação, letalidade e evolução dessa pandemia em escala global, fornecendo insights valiosos para o enfrentamento contínuo da pandemia e preparação para futuros desafios globais de saúde.
+Em um mundo impulsionado pela inovação, mergulhamos em um projeto que integra o avançado modelo Whisper de reconhecimento de fala, a poderosa API do ChatGPT da OpenAI e o Google Text-To-Speech (gTTS). Nosso objetivo? Criar uma solução que não apenas entende perguntas feitas por voz, mas responde de forma inteligente e ainda sintetiza essa resposta em áudio. Um verdadeiro pacote de comunicação fluida e avançada!.
 
 
 [LINK DO PROJETO](https://github.com/alvesbruno-ds/Panorama_COVID19/blob/main/BR_Panorama_do_COVID_19.ipynb)
