@@ -16,7 +16,7 @@
 Em um mundo impulsionado pela inovação, mergulhamos em um projeto que integra o avançado modelo Whisper de reconhecimento de fala, a poderosa API do ChatGPT da OpenAI e o Google Text-To-Speech (gTTS). Nosso objetivo? Criar uma solução que não apenas entende perguntas feitas por voz, mas responde de forma inteligente e ainda sintetiza essa resposta em áudio. Um verdadeiro pacote de comunicação fluida e avançada!.
 
 
-[LINK DO PROJETO](https://github.com/alvesbruno-ds/Panorama_COVID19/blob/main/BR_Panorama_do_COVID_19.ipynb)
+[LINK DO PROJETO](https://github.com/alvesbruno-ds/Reconhecimento-de-Fala/blob/main/Assistente_de_Voz_Multi_Idiomas_Com_Whisper_e_ChatGPT.ipynb)
 
 
 Qualquer dúvida, fico a disposição em meus canais de contato!
