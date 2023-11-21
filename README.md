@@ -9,7 +9,7 @@
 ## Projeto - Reconhecimento de Fala (Whisper + Chat GPT + Google Text-To-Speech)
 
 <p align="center">
-<p width="1%">
+<p width="0,5%">
   <img src="https://github.com/alvesbruno-ds/data-science-BR/blob/main/pessoas-gerando-imagens-usando-inteligencia-artificial-em-laptop.jpg" >
 </p>
 
