@@ -19,7 +19,7 @@ Em um mundo impulsionado pela inovação, mergulhamos em um projeto que integra 
 [LINK DO PROJETO](https://github.com/alvesbruno-ds/Panorama_COVID19/blob/main/BR_Panorama_do_COVID_19.ipynb)
 
 
-Qualquer dúvida, fico a dsposição em meus canais de contato!
+Qualquer dúvida, fico a disposição em meus canais de contato!
 Obrigado
 
 
